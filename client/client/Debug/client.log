@@ -1,0 +1,27 @@
+﻿生成启动时间为 2020/6/28 10:50:25。
+     1>项目“C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\client\client.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\client.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /ID:\qt\4.7.0\include /I.\GeneratedFiles\Debug /ID:\qt\4.7.0\include\QtCore /ID:\qt\4.7.0\include\QtGui /ID:\qt\4.7.0\include\QtNetwork /I.\ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt client.cpp
+         client.cpp
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\\client.exe" /NOLOGO /LIBPATH:D:\qt\4.7.0\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\client.lib" /MACHINE:X86 Debug\client.obj
+         Debug\moc_client.obj
+         Debug\qrc_client.obj
+         Debug\main.obj
+         LINK : 没有找到 C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\\client.exe 或上一个增量链接没有生成它；正在执行完全链接
+         client.vcxproj -> C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\client.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\\client.exe;#1" /manifest Debug\client.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\client.unsuccessfulbuild”。
+         正在对“Debug\client.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\note\qt_test_project\26_tcp\client\client\client.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.38
