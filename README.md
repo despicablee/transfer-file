@@ -23,3 +23,4 @@
 ------
 总长度 —— 文件名长度 —— 文件名 —— 文件数据
 
+https://blog.csdn.net/qq_41431457/article/details/106996846
